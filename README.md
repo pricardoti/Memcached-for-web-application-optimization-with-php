@@ -1,1 +1,1 @@
-# Memcached-otimiza-o-aplica-es-web
+# Memcahced para otimizaçao aplicações web com PHP.
